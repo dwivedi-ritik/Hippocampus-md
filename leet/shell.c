@@ -18,15 +18,7 @@ int main()
     {
         for (int i = 0, j = gap; j < n; j++, i++)
         {
-            if (arr[i] >= arr[j])
-            {
-                swap(&arr[i], &arr[j]);
-            }
-            if (gap == 1)
-            {
-                printf("%d %d\n", i, j);
-            }
-        }
+                }
     }
 
     for (int i = 0; i < n; i++)

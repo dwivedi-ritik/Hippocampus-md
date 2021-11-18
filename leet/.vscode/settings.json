@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "cmath": "cpp",
+        "stdlib.h": "c"
+    },
+    "python.formatting.provider": "black"
+}
